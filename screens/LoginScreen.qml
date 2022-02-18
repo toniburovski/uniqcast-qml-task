@@ -25,7 +25,6 @@ Rectangle {
             Layout.fillWidth: true
             Layout.alignment: Qt.AlignHCenter
             placeholderText: qsTr("Username or E-mail")
-            text: "uniqcaster"
         }
 
         TextFieldUnderline {
@@ -34,7 +33,6 @@ Rectangle {
             Layout.alignment: Qt.AlignHCenter
             placeholderText: qsTr("Password")
             echoMode: TextInput.Password
-            text: "cast457"
         }
 
         Item {
