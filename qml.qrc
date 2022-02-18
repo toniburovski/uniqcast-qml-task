@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>screens/LoginScreen.qml</file>
+        <file>controllers/userController.js</file>
+        <file>screens/MainScreen.qml</file>
+        <file>controllers/channelController.js</file>
+        <file>components/ChannelDelegate.qml</file>
+        <file>utils/constants.js</file>
+        <file>components/controls/TextFieldUnderline.qml</file>
+        <file>utils/networkManager.js</file>
+        <file>qmldir</file>
+        <file>Style.qml</file>
+    </qresource>
+</RCC>
